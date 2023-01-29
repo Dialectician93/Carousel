@@ -1,0 +1,44 @@
+.img1 {
+  height: calc(100vh - 64px) !important;
+}
+.isim {
+  color: coral !important;
+  font-size: 2rem !important;
+}
+h5 {
+  color: purple !important;
+  font-size: 3rem !important;
+}
+.btn {
+  margin-bottom: 1rem;
+}
+.btn:hover {
+  background-color: rgba(103, 89, 8, 0.489) !important;
+  color: white !important;
+}
+.slides {
+  background-color: coral !important;
+  padding: 0.1rem !important;
+}
+.active slides {
+  background-color: coral !important;
+}
+.carousel-indicators {
+  margin-bottom: 10rem;
+}
+.narutoimg {
+  width: 8% !important;
+}
+.backgr {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/696/350/402/rinnegan-akatsuki-naruto-shippuuden-clouds-wallpaper-preview.jpg") !important;
+  background-size: contain !important;
+}
+.area {
+  opacity: 0.7 !important;
+}
+.forms {
+  opacity: 0.7 !important;
+}
+.icons:hover {
+  cursor: pointer !important;
+}
