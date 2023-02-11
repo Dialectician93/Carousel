@@ -1,2 +1,2 @@
 # Naruto
-https://dialectician93.github.io/carousel/
+https://dialectician93.github.io/Carousel/
